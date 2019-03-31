@@ -15,7 +15,7 @@ public class TestActivity extends Activity {
     protected void onCreate( Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        //我的--
+        //我的-- 22
 
     }
 }
