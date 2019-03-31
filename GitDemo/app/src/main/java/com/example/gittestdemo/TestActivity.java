@@ -16,6 +16,6 @@ public class TestActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         //我的-- 22
-
+        //newbranch--kk
     }
 }
