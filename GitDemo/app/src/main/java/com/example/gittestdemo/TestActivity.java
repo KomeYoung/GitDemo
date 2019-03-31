@@ -15,7 +15,16 @@ public class TestActivity extends Activity {
     protected void onCreate( Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
         //我的-- kome
         //kome--111
+
+        //我的-- 22
+        //newbranch--kk--
+        //11111111111
+        //kk--111
+
+	//上面都是合并的
+
     }
 }
