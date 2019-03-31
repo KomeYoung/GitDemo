@@ -30,8 +30,5 @@ public class TestActivity extends Activity {
 
 
         //kk--222
-
-        //上面都是合并的
-        //kome--33
     }
 }
